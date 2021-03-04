@@ -1,0 +1,1 @@
+<a href="https://insomnia.rest/run/?label=Request%20Farmacia&uri=https%3A%2F%2Fraw.githubusercontent.com%2Fwill-souza97%2Ffarmacia-backEnd%2Fmaster%2FFarmacia_button.json" target="_blank"><img src="https://insomnia.rest/images/run.svg" alt="Run in Insomnia"></a>
